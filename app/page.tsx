@@ -1,3 +1,5 @@
+{/* force redeploy */}
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white px-6 md:px-20 py-16">

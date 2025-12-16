@@ -95,7 +95,7 @@ export default function Home() {
   </p>
 
   <div className="mt-4 flex gap-4">
-    <a href="#" className="underline">GitHub</a>
+    <a href="https://github.com/chiranjeevimarisetti854-png" className="underline">GitHub</a>
     <a href="#" className="underline">LinkedIn</a>
   </div>
 </section>
